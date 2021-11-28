@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @30440r
 - 👀 I’m interested in [IOS research/hacking](https://t.co/BtWi2UrZ9S?amp=1 "my sort of website")
-- 📫 You can reach me through [Email Or Twitter DM'S](mailto:30440r@protonmail.com "i won't respond asap lol")
+- 📫 You can reach me through [Email](mailto:30440r@protonmail.com "i won't respond asap lol")
