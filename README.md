@@ -3,5 +3,3 @@
 - 📫 You can reach me through [Email](mailto:30440r@protonmail.com "i won't respond asap lol")
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=30440r&show_icons=true&count_private=true">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=30440r)]()
