@@ -1,4 +1,4 @@
-## Hi, I'm Connor
+<h2>Hi, I'm Connor</h2>
 
 ---
 
