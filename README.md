@@ -1,4 +1,7 @@
 ## Hi, I'm Connor
+
+---
+
 <p>Languages I'm Learning:</p>
 - Rust
 
