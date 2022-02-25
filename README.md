@@ -3,7 +3,7 @@
 ---
 
 <p>Languages I'm Learning:</p>
-- Rust
+* Rust
 
 ---
 
